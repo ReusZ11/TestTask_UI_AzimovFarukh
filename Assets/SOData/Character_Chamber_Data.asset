@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be4f6a003b6046249af082ce54439e16, type: 3}
+  m_Name: Character_Chamber_Data
+  m_EditorClassIdentifier: 
+  characterName: Chamber
+  characterIcon: {fileID: 21300000, guid: c820ce54bc392f74aa9e222e170129ef, type: 3}
+  characterFullImage: {fileID: 21300000, guid: bc98fc6e5b3faf1468b2381e58faa1ce, type: 3}
+  level: 95
